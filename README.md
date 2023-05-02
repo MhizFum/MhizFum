@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MhizFum
-- 👀 I’m currently working on being a certified software engineer 
-- 🌱 I’m currently learning Full stack web development 
+- 👋 Hi, I’m Funmilayo Adamu
+- 👀 I’m currently a data analyst
+- 🌱 I’m proficient in SQL, POWERBI, EXCEL, R PROGRAMMING LANGUAGE
 - 💞️ I’m looking to collaborate on projects relating to programming 
-- 📫 You can reach me: mhizfum@gmail.com
+- 📫 You can reach me: adamufunmilayo@gmail.com
 
 <!---
 MhizFum/MhizFum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
